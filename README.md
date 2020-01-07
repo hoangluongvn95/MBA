@@ -1,2 +1,2 @@
 # MBA
-Exploring U.S. News' MBA Ranking
+Exploring U.S. News' MBA Ranking using Python
