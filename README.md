@@ -1,2 +1,2 @@
 # MBA
-Exploring U.S. News' MBA Ranking using Python
+Exploring U.S. News' MBA Ranking using Beautiful Soup in Python
